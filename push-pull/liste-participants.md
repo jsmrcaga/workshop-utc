@@ -4,4 +4,4 @@
 
 ### Par ordre alphabetique
 
-- COLINA Jo
+- Hugo Bachellier
