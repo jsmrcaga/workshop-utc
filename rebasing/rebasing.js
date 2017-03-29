@@ -8,3 +8,7 @@ function test(){
 function second(){
 	// je ne sers a rien
 }
+
+plep
+plep2
+pep3
