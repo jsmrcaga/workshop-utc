@@ -5,4 +5,6 @@
 ### Par ordre alphabetique
 
 - COLINA Jo
-- Colina Jose Maria- Océane DUBOIS
+- Colina Jose Maria
+- Océane DUBOIS 
+- j'ai réussi ! 
